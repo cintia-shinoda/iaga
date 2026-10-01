@@ -1,8 +1,8 @@
 <h1 align="center">Inteligência Artificial Generativa Aplicada</h1>
 
-<!-- site -->
-<!-- período -->
-<!-- Curitiba, PR, Brasil -->
+https://utfpr.curitiba.br/iaaplicada/
+18/09/2026 a 18/03/2028
+Curitiba, PR, Brasil
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/cintia-shinoda/utfpr_iaga" alt="GitHub Last Commit" />
