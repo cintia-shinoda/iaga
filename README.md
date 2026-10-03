@@ -1,8 +1,8 @@
 <h1 align="center">Inteligência Artificial Generativa Aplicada</h1>
 
-- https://utfpr.curitiba.br/iaaplicada/
+<!-- - https://utfpr.curitiba.br/iaaplicada/
 - 18/09/2026 a 18/03/2028
-- Curitiba, PR, Brasil
+- Curitiba, PR, Brasil -->
 
 
 
