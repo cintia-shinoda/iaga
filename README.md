@@ -8,9 +8,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/cintia-shinoda/utfpr_iaga" alt="GitHub Last Commit" />
-  <img src="https://img.shields.io/github/forks/cintia-shinoda/utfpr_iaga" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/stars/cintia-shinoda/utfpr_iaga" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/cintia-shinoda/iaga" alt="GitHub Last Commit" />
+  <img src="https://img.shields.io/github/forks/cintia-shinoda/iaga" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/stars/cintia-shinoda/iaga" alt="GitHub Stars" />
 </p>
 
 
