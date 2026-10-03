@@ -1,8 +1,11 @@
 <h1 align="center">Inteligência Artificial Generativa Aplicada</h1>
 
-https://utfpr.curitiba.br/iaaplicada/
-18/09/2026 a 18/03/2028
-Curitiba, PR, Brasil
+- https://utfpr.curitiba.br/iaaplicada/
+- 18/09/2026 a 18/03/2028
+- Curitiba, PR, Brasil
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/cintia-shinoda/utfpr_iaga" alt="GitHub Last Commit" />
@@ -15,7 +18,7 @@ Curitiba, PR, Brasil
 
 |  | # | Período | Disciplina | Professor(a) | Média |
 |:---:|:---:|:---:|:---|:---|:---:|
-|  | 1 |  | Introdução à Inteligência Artificial e Aprendizado de Máquina | Denise Fukumi Tsunoda |  |
+|  | 1 |  | [Introdução à Inteligência Artificial e Aprendizado de Máquina](https://github.com/cintia-shinoda/utfpr_iaga/tree/main/01_Intro-a-IA-e-Aprendizado-de-Maquina) | Denise Fukumi Tsunoda |  |
 |  |  | **Coeficiente de Rendimento (CR)** |  |  |  |
 
 
